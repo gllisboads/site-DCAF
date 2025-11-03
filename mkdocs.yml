@@ -62,6 +62,7 @@ plugins:
   - search
   - social
   - tags
+  - gemini-chatbot
   # - minify:  # opcional, melhora desempenho
   #     minify_html: true
 
@@ -84,3 +85,4 @@ nav:
       - Despesa: dados/despesa.md
   - Metodologia: metodologia.md
   - Contato: contato.md
+
