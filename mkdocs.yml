@@ -1,1 +1,86 @@
-site_name: My Docs
+site_name: DCAF
+site_description: Informações úteis à Diretoria Central de Análise Fiscal.
+site_url: https://exemplo.com
+
+theme:
+  name: material
+  language: pt
+  features:
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+    - navigation.tabs
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.action.edit
+    - content.tabs.link
+    - content.tooltips
+    - header.autohide
+  palette:
+    - scheme: slate  # modo escuro 
+      primary: teal
+      accent: lime
+      toggle:
+        icon: material/weather-sunny
+        name: Mudar para modo claro
+    - scheme: default  # modo claro 
+      primary: teal
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Mudar para modo escuro
+  font:
+    text: "Inter"
+    code: "JetBrains Mono"
+
+# Logo e favicon opcionais
+# logo: assets/logo.png
+# favicon: assets/favicon.png
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - def_list
+  - codehilite:
+      guess_lang: false
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search
+  - social
+  - tags
+  # - minify:  # opcional, melhora desempenho
+  #     minify_html: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/seuprojeto
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/seuprojeto
+  generator: false  # Remove o "Built with MkDocs" do rodapé
+  analytics:
+    provider: google
+    property: G-XXXXXXXXXX  # substitua se quiser rastrear acessos
+
+nav:
+  - Início: index.md
+  - Sobre: sobre.md
+  - Dados:
+      - Receita: dados/receita.md
+      - Despesa: dados/despesa.md
+  - Metodologia: metodologia.md
+  - Contato: contato.md
