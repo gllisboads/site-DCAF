@@ -1,0 +1,12 @@
+/* Força qualquer iframe ou container de chatbot a ser visível e maior */
+iframe[src*="gemini"], div[class*="chat"], div[id*="chat"] {
+  position: fixed !important;
+  bottom: 20px !important;
+  right: 20px !important;
+  width: 400px !important;
+  height: 500px !important;
+  z-index: 9999 !important;
+  background-color: #1e1e1e !important;
+  border-radius: 10px !important;
+  overflow: hidden !important;
+}

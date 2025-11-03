@@ -86,3 +86,5 @@ nav:
   - Metodologia: metodologia.md
   - Contato: contato.md
 
+extra_css:
+  - extra.css
