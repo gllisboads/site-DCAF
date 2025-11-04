@@ -12,7 +12,10 @@ dependencies = [
     "mkdocs-git-revision-date-localized-plugin (>=1.5.0,<2.0.0)",
     "mkdocs-minify-plugin (>=0.8.0,<0.9.0)",
     "mkdocs-material[imaging] (>=9.6.23,<10.0.0)",
-    "mkdocs-gemini-chatbot (>=1.0.1,<2.0.0)"
+    "mkdocs-gemini-chatbot (>=1.0.1,<2.0.0)",
+    "flask (>=3.1.2,<4.0.0)",
+    "requests (>=2.32.5,<3.0.0)",
+    "python-dotenv (>=1.2.1,<2.0.0)"
 ]
 
 

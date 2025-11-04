@@ -86,5 +86,8 @@ nav:
   - Metodologia: metodologia.md
   - Contato: contato.md
 
+extra_javascript:
+  - js/chatbot.js
+
 extra_css:
-  - extra.css
+  - css/chatbot.css
