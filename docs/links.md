@@ -26,3 +26,7 @@ http://200.198.9.184/QvAJAXZfc/opendoc.htm?document=dcgf%5Cloa_2025%5Cloa_2025.q
 [GRP_homologação](http://homologacao.grp-portal.mg.gov.br/grp-portal-web/)
 
 [Armazém_BO](http://www.bipreproducao.mg.gov.br/BOE/portal/1911251416/InfoView/logon.faces?bttoken=&skipSso=true)
+
+[LRF_SEF](https://www.fazenda.mg.gov.br/governo/contadoria_geral/lei_responsabilidade_fiscal/)
+
+[Demonstrações_contábeis_SEF](https://www.fazenda.mg.gov.br/governo/contadoria_geral/relatorio_contabil/)

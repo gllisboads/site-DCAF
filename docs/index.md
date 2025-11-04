@@ -12,12 +12,12 @@ A **Diretoria Central de Análise Fiscal (DCAF)** atua no acompanhamento, consol
 
 ### Atribuições:
 
-- 📈 **Acompanhar índices constitucionais**, assegurando o cumprimento das vinculações legais de recursos;  
-- 💻 **Consolidar dados** que compõem as leis orçamentárias (**LDO** e **LOA**);  
-- ↺ **Reestimar receitas e despesas** ao longo do exercício financeiro;  
-- 💰 **Definir os recursos** utilizados na execução da folha de pagamento;  
-- 📊 **Analisar o cenário fiscal** e propor melhorias no planejamento orçamentário;  
-- 📝 **Elaborar notas técnicas** de suporte à gestão e à tomada de decisão.
+- :material-chart-timeline-variant-shimmer: **Acompanhar índices constitucionais**, assegurando o cumprimento das vinculações legais de recursos;  
+- :simple-databricks: **Consolidar dados** que compõem as leis orçamentárias (**LDO** e **LOA**);  
+- :material-signal-distance-variant: **Reestimar receitas e despesas** ao longo do exercício financeiro;  
+- :fontawesome-solid-sack-dollar: **Definir os recursos** utilizados na execução da folha de pagamento;  
+- :material-note-search-outline: **Analisar o cenário fiscal** e propor melhorias no planejamento orçamentário;  
+- :material-file-document-edit-outline: **Elaborar notas técnicas** de suporte à gestão e à tomada de decisão.
 
 ---
 

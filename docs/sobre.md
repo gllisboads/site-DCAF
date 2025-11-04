@@ -17,3 +17,6 @@ A Diretoria Central de Análise Fiscal tem como competência **elaborar projeç�
 - **IX** – Analisar as **solicitações de previsão adicional de receita** e respectiva classificação orçamentária para habilitação e vinculação de receita e fonte de recurso à unidade orçamentária;
 - **X** – Gerir, em parceria com a Diretoria Central de Planejamento, Programação e Normas, o **ementário de fonte e destinação de recursos**;
 - **XI** – Elaborar **estudos, pesquisas, notas técnicas, relatórios, apresentações e outros documentos** sobre temas orçamentários e de natureza fiscal com vistas a subsidiar a formulação e a tomada de decisões relacionadas às políticas e diretrizes fiscais e orçamentárias.
+
+---
+Fonte: **Decreto nº 48.636, de 2023**, disponível no [site da Assembleia Legislativa de Minas Gerais](https://www.almg.gov.br/legislacao-mineira/texto/DEC/48636/2023/).
