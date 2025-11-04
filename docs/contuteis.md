@@ -13,3 +13,6 @@ eniziane.cotta@fazenda.mg.gov.br
 ### PASEP da receita SEF
 dcpaf@fazenda.mg.gov.br
 hely.lembi@fazenda.mg.gov.br
+
+### Dívida SCGOV/SEF
+scgovdivida@fazenda.mg.gov.br
