@@ -12,4 +12,4 @@ Abaixo, você pode visualizar o Manual da DCAF:
 
 <a href="https://www.canva.com/design/DAGljQGG7wQ/0rWMxEIqTaEBljAtgL-f4A/view?utm_content=DAGljQGG7wQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">
 Manual DCAF
-</a> (para visualização com menu habilitado) 
+</a> (para visualização em tela cheia) 

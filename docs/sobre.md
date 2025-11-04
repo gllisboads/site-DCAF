@@ -2,7 +2,7 @@
 
 ![Foto equipe DCAF](images/equipe_DCAF.jpeg)
 
-# **Competências da Diretoria Central de Análise Fiscal**
+## **Competências da Diretoria Central de Análise Fiscal**
 
 A Diretoria Central de Análise Fiscal tem como competência **elaborar projeções de receitas e despesas fiscais** e **acompanhar os principais indicadores e demonstrativos fiscais**, com as seguintes atribuições:
 
