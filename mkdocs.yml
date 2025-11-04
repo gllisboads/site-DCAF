@@ -80,11 +80,11 @@ extra:
 nav:
   - Início: index.md
   - Sobre: sobre.md
-  - Dados:
-      - Receita: dados/receita.md
-      - Despesa: dados/despesa.md
+  - Links: links.md
   - Metodologia: metodologia.md
-  - Contato: contato.md
+  - Contato: 
+    - Contato DCAF: contato.md
+    - Contatos Úteis: contuteis.md
 
 extra_javascript:
   - js/chatbot.js
