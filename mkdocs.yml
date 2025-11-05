@@ -73,13 +73,11 @@ plugins:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/seuprojeto
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/seuprojeto
+      link: https://github.com/splor-mg
   generator: false  # Remove o "Built with MkDocs" do rodapé
   analytics:
-    provider: google
-    property: G-XXXXXXXXXX  # substitua se quiser rastrear acessos
+      provider: google
+      property: G-9CQ61WJ7DC  # ID de medição do Google Analytics
     
 
 nav:
