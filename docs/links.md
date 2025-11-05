@@ -1,31 +1,70 @@
-# Links Úteis
+# **Links Úteis**
 
-[Qlikview_reestimativa_ano_corrente_2025](http://200.198.9.184/QvAJAXZfc/opendoc.htm?document=dcgf%5Creestimativa_2025%5Creestimativa_2025.qvw&host=QVS%40vm13525)
+## 📊 **Painéis e Relatórios (QlikView e Power BI)**
 
-[Qlikview_loa_ano_corrente_2025](http://200.198.9.184/QvAJAXZfc/opendoc.htm?document=dcgf%5Cloa_2025%5Cloa_2025.qvw&host=QVS%40vm13525)
+- **Reestimativa – Ano Corrente (2025)**  
+  [QlikView – Reestimativa 2025](http://200.198.9.184/QvAJAXZfc/opendoc.htm?document=dcgf%5Creestimativa_2025%5Creestimativa_2025.qvw&host=QVS%40vm13525)
 
-[Qlikview_loa_ano_seguinte_2026](http://200.198.9.184/QvAJAXZfc/opendoc.htm?document=dcgf%5Cloa_2026%5Cloa_2026.qvw&host=QVS%40vm13525)
+- **LOA – Ano Corrente (2025)**  
+  [QlikView – LOA 2025](http://200.198.9.184/QvAJAXZfc/opendoc.htm?document=dcgf%5Cloa_2025%5Cloa_2025.qvw&host=QVS%40vm13525)
 
-[Qlikview_ldo_ano_seguinte_2026](http://200.198.9.184/QvAJAXZfc/opendoc.htm?document=dcgf%5Cldo_2026%5Cldo_2026.qvw&host=QVS%40vm13525)
+- **LOA – Ano Seguinte (2026)**  
+  [QlikView – LOA 2026](http://200.198.9.184/QvAJAXZfc/opendoc.htm?document=dcgf%5Cloa_2026%5Cloa_2026.qvw&host=QVS%40vm13525)
 
-[Saldo_histórico_fontes](https://app.powerbi.com/view?r=eyJrIjoiMGYwODZmODEtMjgzNy00MTFkLThlOWMtNmRmYzM0NGYxYTRiIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+- **LDO – Ano Seguinte (2026)**  
+  [QlikView – LDO 2026](http://200.198.9.184/QvAJAXZfc/opendoc.htm?document=dcgf%5Cldo_2026%5Cldo_2026.qvw&host=QVS%40vm13525)
 
-[Despesas_outros_poderes](https://app.powerbi.com/view?r=eyJrIjoiMzExMzUyOGUtODQyNS00NDNhLWE3ZjctN2E2MTkxZDE3NmIxIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
+- **Saldo Histórico de Fontes (Power BI)**  
+  [Power BI – Saldo Histórico de Fontes](https://app.powerbi.com/view?r=eyJrIjoiMGYwODZmODEtMjgzNy00MTFkLThlOWMtNmRmYzM0NGYxYTRiIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
-[Tesouro_nacional_ementário_receita](https://www.gov.br/tesouronacional/pt-br/contabilidade-e-custos/federacao/ementario-da-classificacao-por-natureza-de-receita-tabela-de-codigos)
+- **Despesas – Outros Poderes (Power BI)**  
+  [Power BI – Despesas dos Outros Poderes](https://app.powerbi.com/view?r=eyJrIjoiMzExMzUyOGUtODQyNS00NDNhLWE3ZjctN2E2MTkxZDE3NmIxIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
-[SISOR_usar_explorer](https://www.orcamento.mg.gov.br/aoad/index.jsp)
 
-[SISOR_GRP_pré_produção](https://www.orcamentogrp.mg.gov.br/aoad/)
+---
 
-[SISOR_GRP_homologação](http://grphomosisor.prodemge.gov.br/aoad/)
+## 🖥️ **Sistemas Orçamentários (SISOR / GRP)**
 
-[GRP_pré_produção](http://www.grp-portal.mg.gov.br/)
+- **SISOR – Acesso via Internet Explorer**  
+  [SISOR (usar Explorer)](https://www.orcamento.mg.gov.br/aoad/index.jsp)
 
-[GRP_homologação](http://homologacao.grp-portal.mg.gov.br/grp-portal-web/)
+- **SISOR GRP – Pré-Produção**  
+  [SISOR GRP (Pré-Produção)](https://www.orcamentogrp.mg.gov.br/aoad/)
 
-[Armazém_BO](http://www.bipreproducao.mg.gov.br/BOE/portal/1911251416/InfoView/logon.faces?bttoken=&skipSso=true)
+- **SISOR GRP – Homologação**  
+  [SISOR GRP (Homologação)](http://grphomosisor.prodemge.gov.br/aoad/)
 
-[Demonstrações_contábeis_SEF](https://www.fazenda.mg.gov.br/governo/contadoria_geral/relatorio_contabil/)
+- **GRP – Pré-Produção**  
+  [GRP (Pré-Produção)](http://www.grp-portal.mg.gov.br/)
 
-[LRF_SEF](https://www.fazenda.mg.gov.br/governo/contadoria_geral/lei_responsabilidade_fiscal/)
+- **GRP – Homologação**  
+  [GRP (Homologação)](http://homologacao.grp-portal.mg.gov.br/grp-portal-web/)
+
+
+---
+
+## 📚 **Documentos e Referências da SEF/MG**
+
+- **Demonstrações Contábeis – SEF**  
+  [Site da SEF – Demonstrações Contábeis](https://www.fazenda.mg.gov.br/governo/contadoria_geral/relatorio_contabil/)
+
+- **Lei de Responsabilidade Fiscal – SEF**  
+  [Site da SEF – LRF](https://www.fazenda.mg.gov.br/governo/contadoria_geral/lei_responsabilidade_fiscal/)
+
+
+---
+
+## 💰 **Tesouro Nacional**
+
+- **Ementário da Receita**  
+  [Tesouro Nacional – Ementário da Classificação por Natureza da Receita](https://www.gov.br/tesouronacional/pt-br/contabilidade-e-custos/federacao/ementario-da-classificacao-por-natureza-de-receita-tabela-de-codigos)
+
+
+---
+
+## 🗂️ **Outros Recursos Internos**
+
+- **Armazém BO**  
+  [Acesso ao Armazém BO](http://www.bipreproducao.mg.gov.br/BOE/portal/1911251416/InfoView/logon.faces?bttoken=&skipSso=true)
+
+
