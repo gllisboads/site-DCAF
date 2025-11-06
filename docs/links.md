@@ -43,13 +43,16 @@
 
 ---
 
-## 📚 **Documentos e Referências da SEF/MG**
+## 📚 **Documentos e Referências da SEF/MG e ALMG**
 
 - **Demonstrações Contábeis – SEF**  
   [Site da SEF – Demonstrações Contábeis](https://www.fazenda.mg.gov.br/governo/contadoria_geral/relatorio_contabil/)
 
 - **Lei de Responsabilidade Fiscal – SEF**  
   [Site da SEF – LRF](https://www.fazenda.mg.gov.br/governo/contadoria_geral/lei_responsabilidade_fiscal/)
+
+- **Leis Orçamentárias – ALMG**  
+  [Assembleia Legislativa – Lei Orçamentária Inicial](https://www.almg.gov.br/atividade-parlamentar/orcamento-do-estado/inicial/)
 
 
 ---
@@ -59,6 +62,8 @@
 - **Ementário da Receita**  
   [Tesouro Nacional – Ementário da Classificação por Natureza da Receita](https://www.gov.br/tesouronacional/pt-br/contabilidade-e-custos/federacao/ementario-da-classificacao-por-natureza-de-receita-tabela-de-codigos)
 
+- **Fontes e Destinações de Recursos**  
+  [Tesouro Nacional – Fontes e Destinações de Recursos](https://www.gov.br/tesouronacional/pt-br/contabilidade-e-custos/federacao/fonte-ou-destinacao-de-recursos)
 
 ---
 
