@@ -52,7 +52,7 @@
   [Site da SEF – LRF](https://www.fazenda.mg.gov.br/governo/contadoria_geral/lei_responsabilidade_fiscal/)
 
 - **Leis Orçamentárias – ALMG**  
-  [Assembleia Legislativa – Lei Orçamentária Inicial](https://www.almg.gov.br/atividade-parlamentar/orcamento-do-estado/inicial/)
+  [Assembleia Legislativa – Orçamento do Estado](https://www.almg.gov.br/atividade-parlamentar/orcamento-do-estado/inicial/)
 
 
 ---
